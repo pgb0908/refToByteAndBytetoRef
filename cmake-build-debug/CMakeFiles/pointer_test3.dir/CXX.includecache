@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Tmax/CLionProjects/pointer_test3/main.cpp
+iostream
+-
+vector
+-
+memory
+-
+cstring
+-
+sstream
+-
+

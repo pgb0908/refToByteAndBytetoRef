@@ -1,0 +1,3 @@
+/mnt/c/Users/Tmax/CLionProjects/pointer_test3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Tmax/CLionProjects/pointer_test3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tmax/CLionProjects/pointer_test3/cmake-build-debug/CMakeFiles/pointer_test3.dir
